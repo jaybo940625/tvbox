@@ -1,0 +1,36 @@
+{
+    "urls": [
+	
+ 
+       {
+            "url": "./饭太硬/api.json",
+            "name": "饭太硬"
+        },
+
+{ "url": "./短剧频道/api.json", "name": "短剧频道" },
+
+{ "url": "./少儿频道/api.json", "name": "少儿频道" },
+
+   {
+            "url": "./影视/api.json",
+            "name": "影视频道"
+        },
+        {
+            "url": "./动漫/api.json",
+            "name": "动漫频道"
+        },
+        {
+            "url": "./文艺/api.json",
+            "name": "文艺频道"
+        },
+        {
+            "url": "./磁力/api.json",
+            "name": "磁力频道"
+        },
+        {
+            "url": "./云盘/api.json",
+            "name": "云盘频道"
+        }      
+        
+       ]
+        }
